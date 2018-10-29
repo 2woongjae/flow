@@ -12,8 +12,17 @@ npm run build
 
 ```
 git clone https://github.com/2woongjae/flow.git
-cd flow/ex1
+cd flow/ex2
 npm i
 npm run flow
 npm run build
+```
+
+### ex3
+
+```
+git clone https://github.com/2woongjae/flow.git
+cd flow/ex3
+npm i
+npm run flow
 ```
